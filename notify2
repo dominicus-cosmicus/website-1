@@ -1,8 +1,0 @@
-notify2
->>> import notify2
->>> notify2.init("Test")
-True
->>> notice = notify2.Notification("hi","hello")
->>> notice.show()
-True
->>> 
